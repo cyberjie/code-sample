@@ -4,7 +4,9 @@
 ## 已完成列表
 |名称 | 代号 |
 | ---- | ---- |
-| grafana | 1 | 
-| netty | 2 | 
-| nginx | 3 | 
-| swagger | 4 | 
+| beego | 1 | 
+| gin | 2 | 
+| grafana | 3 | 
+| netty | 4 | 
+| nginx | 5 | 
+| swagger | 6 | 

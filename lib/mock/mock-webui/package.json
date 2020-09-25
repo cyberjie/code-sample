@@ -1,0 +1,21 @@
+{
+  "name": "mock-webui",
+  "version": "1.0.0",
+  "description": "a web mock project",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/cyberjie/code-sample"
+  },
+  "keywords": [
+    "mock-webui"
+  ],
+  "author": "cyberjie",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
+}
